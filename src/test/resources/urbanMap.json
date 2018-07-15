@@ -1,0 +1,159 @@
+[
+  {
+    "id": "id_Urb_1",
+    "derecha": "id_Urb_2",
+    "abajo": "id_Urb_6"
+  },
+  {
+    "id": "id_Urb_2",
+    "izquierda": "id_Urb_1",
+    "derecha": "id_Urb_3",
+    "abajo": "id_Urb_7"
+  },
+  {
+    "id": "id_Urb_3",
+    "izquierda": "id_Urb_2",
+    "derecha": "id_Urb_4",
+    "abajo": "id_Urb_8"
+  },
+  {
+    "id": "id_Urb_4",
+    "izquierda": "id_Urb_3",
+    "derecha": "id_Urb_5",
+    "abajo": "id_Urb_9"
+  },
+  {
+    "id": "id_Urb_5",
+    "izquierda": "id_Urb_4",
+    "abajo": "id_Urb_10"
+  },
+  {
+    "id": "id_Urb_6",
+    "derecha": "id_Urb_7",
+    "arriba": "id_Urb_1",
+    "abajo": "id_Urb_11"
+  },
+  {
+    "id": "id_Urb_7",
+    "izquierda": "id_Urb_6",
+    "derecha": "id_Urb_8",
+    "arriba": "id_Urb_2",
+    "abajo": "id_Urb_12"
+  },
+  {
+    "id": "id_Urb_8",
+    "izquierda": "id_Urb_7",
+    "derecha": "id_Urb_9",
+    "arriba": "id_Urb_3",
+    "abajo": "id_Urb_13"
+  },
+  {
+    "id": "id_Urb_9",
+    "izquierda": "id_Urb_8",
+    "derecha": "id_Urb_10",
+    "arriba": "id_Urb_4",
+    "abajo": "id_Urb_14"
+  },
+  {
+    "id": "id_Urb_10",
+    "izquierda": "id_Urb_9",
+    "arriba": "id_Urb_5",
+    "abajo": "id_Urb_15"
+  },
+  {
+    "id": "id_Urb_11",
+    "derecha": "id_Urb_12",
+    "arriba": "id_Urb_6",
+    "abajo": "id_Urb_16"
+  },
+  {
+    "id": "id_Urb_12",
+    "izquierda": "id_Urb_11",
+    "derecha": "id_Urb_13",
+    "arriba": "id_Urb_7",
+    "abajo": "id_Urb_17"
+  },
+  {
+    "id": "id_Urb_13",
+    "coordX": 40.41604373378076,
+    "coordY": -3.696166640364254,
+    "izquierda": "id_Urb_12",
+    "derecha": "id_Urb_14",
+    "arriba": "id_Urb_8",
+    "abajo": "id_Urb_18"
+  },
+  {
+    "id": "id_Urb_14",
+    "izquierda": "id_Urb_13",
+    "derecha": "id_Urb_15",
+    "arriba": "id_Urb_9",
+    "abajo": "id_Urb_19"
+  },
+  {
+    "id": "id_Urb_15",
+    "izquierda": "id_Urb_14",
+    "arriba": "id_Urb_10",
+    "abajo": "id_Urb_20"
+  },
+  {
+    "id": "id_Urb_16",
+    "derecha": "id_Urb_17",
+    "arriba": "id_Urb_11",
+    "abajo": "id_Urb_21"
+  },
+  {
+    "id": "id_Urb_17",
+    "izquierda": "id_Urb_16",
+    "derecha": "id_Urb_18",
+    "arriba": "id_Urb_12",
+    "abajo": "id_Urb_22"
+  },
+  {
+    "id": "id_Urb_18",
+    "izquierda": "id_Urb_17",
+    "derecha": "id_Urb_19",
+    "arriba": "id_Urb_13",
+    "abajo": "id_Urb_23"
+  },
+  {
+    "id": "id_Urb_19",
+    "izquierda": "id_Urb_18",
+    "derecha": "id_Urb_20",
+    "arriba": "id_Urb_14",
+    "abajo": "id_Urb_24"
+  },
+  {
+    "id": "id_Urb_20",
+    "izquierda": "id_Urb_19",
+    "arriba": "id_Urb_15",
+    "abajo": "id_Urb_25"
+  },
+  {
+    "id": "id_Urb_21",
+    "derecha": "id_Urb_22",
+    "arriba": "id_Urb_16"
+  },
+  {
+    "id": "id_Urb_22",
+    "izquierda": "id_Urb_21",
+    "derecha": "id_Urb_23",
+    "arriba": "id_Urb_17"
+  },
+  {
+    "id": "id_Urb_23",
+    "izquierda": "id_Urb_22",
+    "derecha": "id_Urb_24",
+    "arriba": "id_Urb_18"
+  },
+  {
+    "id": "id_Urb_24",
+    "izquierda": "id_Urb_23",
+    "derecha": "id_Urb_25",
+    "arriba": "id_Urb_19"
+  },
+  {
+    "id": "id_Urb_25",
+    "izquierda": "id_Urb_24",
+    "arriba": "id_Urb_20"
+  }
+]
